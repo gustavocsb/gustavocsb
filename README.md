@@ -1,7 +1,7 @@
 ### Opa, sou o Gustavo 👋
 
 - 📚 Atualmente estudando C, C++ e Java
-- 😄 Pronomes: Ele/Dele
+- 🔎 Em busca de experiência na área de T.I
 
 <div align="center">
   <a href="https://github.com/distnrb">
