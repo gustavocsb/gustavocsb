@@ -4,7 +4,7 @@
 - 🔎 Em busca de experiência na área de T.I
 
 <div align="center">
-  <a href="https://github.com/distnrb">
+  <a href="https://github.com/distnr">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=distnrb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distnrb&layout=compact&langs_count=7&theme=dark"/>
 </div>
