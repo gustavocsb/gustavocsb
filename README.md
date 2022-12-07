@@ -1,6 +1,6 @@
 ### Opa, sou o Gustavo 👋
 
-- 📚 Atualmente estudando JavaScript
+- 📚 Atualmente estudando Backend Node.JS
 - 🔎 Em busca de experiência na área de T.I
 
 <div align="center">
