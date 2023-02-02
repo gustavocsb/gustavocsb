@@ -10,8 +10,8 @@ Estudante no quinto semestre de Engenharia de Software, atualmente estou estudan
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distnrb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  Tecnologias que possuo conhecimento:
 <div style="display: inline_block"><br>
-  <label align="center"Tecnologias que possuo conhecimentos:>
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Gusta-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
