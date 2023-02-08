@@ -1,6 +1,6 @@
 ### Opa, sou o Gustavo 👋
 
-Estudante no quinto semestre de Engenharia de Software, atualmente estou estudando JavaScript e Node.JS, possuo alta curiosidade em desenvolver server-side backend para softwares que podem escalar.
+Estudante no quinto semestre de Engenharia de Software, atualmente estou estudando JavaScript e Node.JS, procurando um estágio para qualquer área de dev mas possuo alta curiosidade em desenvolver server-side backend para softwares que podem escalar.
 - 📚 Atualmente estudando Backend Node.JS
 - 🔎 Em busca de experiência na área de T.I
 
