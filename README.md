@@ -6,8 +6,8 @@ Estudante no quinto semestre de Engenharia de Software, atualmente estou estudan
 
 <div align="center">
   <a href="https://github.com/distnrb">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=distnrb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distnrb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustavocsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
