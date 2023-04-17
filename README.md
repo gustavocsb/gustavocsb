@@ -6,7 +6,7 @@ Estudante no quinto semestre de Engenharia de Software, atualmente estou estudan
 2. Arquitetura de Dados
 3. Serviços Computacionais em Nuvem
 
-- 🔎 Em busca de experiência na área de T.I
+- 💻 Estagiário no Tribunal Superior do Trabalho
 
 <div align="center">
   <a href="https://github.com/gustavocsb">
