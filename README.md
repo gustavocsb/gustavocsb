@@ -1,6 +1,6 @@
 ### Opa, sou o Gustavo 👋
 
-Estudante no quinto semestre de Engenharia de Software.
+Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
 1. Programação Orientada a Objetos (POO)
 2. Arquitetura de Dados
