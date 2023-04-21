@@ -7,6 +7,9 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
 3. Serviços Computacionais em Nuvem
 
 - 💻 Estagiário no Tribunal Superior do Trabalho
+1. Business Intelligence (Power BI)
+2. Low-code
+3. Java
 
 
 <div align="center">
