@@ -8,6 +8,22 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
 
 - 💻 Estagiário no Tribunal Superior do Trabalho
 
+
+<div align="center">
+  <a href="https://github.com/gustavocsb">
+  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api?username=gustavocsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+
+
+
+
+
+
+
+
+
   Tecnologias que possuo conhecimento:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -18,12 +34,6 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
   <img align="center" alt="Gusta-Node.JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-</div>
-  
- <div align="center">
-  <a href="https://github.com/gustavocsb">
-  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api?username=gustavocsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  ##
