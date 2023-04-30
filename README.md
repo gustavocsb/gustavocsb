@@ -3,7 +3,7 @@
 Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
 1. Programação Orientada a Objetos (POO)
-2. Arquitetura de Dados
+2. Arquitetura de Software
 3. Serviços Computacionais em Nuvem
 
 - 💻 Estagiário no Tribunal Superior do Trabalho
