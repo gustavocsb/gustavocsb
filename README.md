@@ -30,6 +30,7 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
   
 <div style="display: inline_block"><br>
 Tecnologias que possuo conhecimento:<br>
+  <div style="padding-top: 5px;">
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Gusta-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -38,6 +39,7 @@ Tecnologias que possuo conhecimento:<br>
   <img align="center" alt="Gusta-Node.JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+     </div>
 </div>
   
  ##
