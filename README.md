@@ -25,7 +25,7 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
 
 
 
-
+<br>
 
   Tecnologias que possuo conhecimento:
 <div style="display: inline_block"><br>
