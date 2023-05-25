@@ -30,7 +30,7 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
   
 <div style="display: inline_block"><br>
 Tecnologias que possuo conhecimento:<br>
-  <div style="padding-top: 5px;">
+  <div style="padding-top: 10px;">
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Gusta-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
