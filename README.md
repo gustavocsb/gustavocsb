@@ -1,6 +1,6 @@
 ### Opa, sou o Gustavo 👋
 
-Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de Brasília (UCB).
+Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
 1. Spring Boot
 2. React.js
