@@ -4,11 +4,12 @@ Estudante de Engenharia de Software, 5º semestre, na Universidade Católica de 
 - 📚 Atualmente estudando
 1. Spring Boot
 2. React.js
+3. Programação Web
 
 - 💻 Estagiário no Tribunal Superior do Trabalho
-1. Business Intelligence (Power BI)
-2. Low-code
-3. Java
+1. Java Spring Boot
+2. React.Js
+3. Análise e ETL de dados: Power BI e Python
 
 
 <div align="center">
