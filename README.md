@@ -9,7 +9,7 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 - 💻 Estagiário no Tribunal Superior do Trabalho
 1. Java Spring Boot
 2. React.Js
-3. Análise e ETL de dados: Power BI e Python
+3. Business Intelligence: Power BI e Python
 
 
 <div align="center">
