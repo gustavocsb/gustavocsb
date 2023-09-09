@@ -6,7 +6,7 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 2. React.js
 3. Programação Web
 
-- 💻 Analista de dados no Hospital Santa Lúcia
+- 💻 Analista de BI no Hospital Santa Lúcia
 1. QlikView
 2. Toad - SQL
 3. Análise de requisitos
