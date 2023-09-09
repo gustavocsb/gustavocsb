@@ -6,10 +6,10 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 2. React.js
 3. Programação Web
 
-- 💻 Estagiário no Tribunal Superior do Trabalho
-1. Java Spring Boot
-2. React.Js
-3. Business Intelligence: Power BI e Python
+- 💻 Analista de dados no Hospital Santa Lúcia
+1. QlikView
+2. Toad - SQL
+3. Análise de requisitos
 
 
 <div align="center">
