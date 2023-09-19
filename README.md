@@ -2,14 +2,14 @@
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
-1. Spring Boot
-2. React.js
-3. Programação Web
+1. Python para Análise de Dados e Data Science
+2. Otimização de query SQL
 
 - 💻 Analista de BI no Hospital Santa Lúcia
-1. QlikView
+1. QlikView e QlikSense
 2. Toad - SQL
-3. Análise de requisitos
+3. Python - ETL
+4. Análise de requisitos
 
 
 <div align="center">
@@ -17,17 +17,9 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
   <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api?username=gustavocsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-
-
-
-
-
-
 
 <br>
 
-  
 <div style="display: inline_block"><br>
 Tecnologias que possuo conhecimento:<br><br>
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -49,5 +41,3 @@ Tecnologias que possuo conhecimento:<br><br>
   <a href="https://www.linkedin.com/in/gcsb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-  
