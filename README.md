@@ -1,4 +1,4 @@
-# <picture><img src = "https://github.com/gustavocsb/gustavocsb/blob/main/about_me.gif" width = 50px></picture> $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$
+# $\mathbffrak{\color{Salmon}{☯}}$ $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$ $\mathbffrak{\color{Salmon}{☯}}$
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
