@@ -1,4 +1,4 @@
-### Opa, sou o Gustavo 👋
+# $\mathbffrak{\color{PineGreen}{⛧}}$ $\LARGE\mathfrak{\color{SeaGreen}{Gustavo \ Borges}}$
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
