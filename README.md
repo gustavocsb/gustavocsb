@@ -1,4 +1,4 @@
-# $\mathbffrak{\color{Salmon}{☯}}$ $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$ $\mathbffrak{\color{Salmon}{☯}}$
+# $\mathbffrak{\color{Salmon}{☯}}$ $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
