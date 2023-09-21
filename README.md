@@ -1,4 +1,4 @@
-# $\mathbffrak{\color{Salmon}{☯}}$ $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$
+# 𝕲𝖚𝖘𝖙𝖆𝖛𝖔 𝕭𝖔𝖗𝖌𝖊𝖘
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
