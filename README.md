@@ -1,4 +1,6 @@
-# 𝕲𝖚𝖘𝖙𝖆𝖛𝖔 𝕭𝖔𝖗𝖌𝖊𝖘
+$\mathbffrak{\color{Salmon}{☯}}$ $\LARGE\mathfrak{\color{Salmon}{Gustavo \ Borges}}$
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
@@ -16,7 +18,7 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 
 <div style="display: inline_block">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="12"><b> Tecnologias</b>
 <br>
 
   - **Linguagens de Programação:**
@@ -52,7 +54,9 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
   
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="12"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -65,7 +69,7 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     
-  ## <b> Vamos nos conectar!</b><img src="https://github.com/gustavocsb/gustavocsb/blob/main/handshake.gif" width ="80">
+  <b> Vamos nos conectar!</b><img src="https://github.com/gustavocsb/gustavocsb/blob/main/handshake.gif" width ="40">
   <br>
 <div> 
   <a href="https://instagram.com/gnstavo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
