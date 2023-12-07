@@ -79,3 +79,7 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
  target="_blank"></a>
   
 </div>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=gustavocsb)
