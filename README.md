@@ -2,6 +2,8 @@ $\LARGE{\{Analista \ de \ Dados}}$
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![](https://komarev.com/ghpvc/?username=gustavocsb)
+
 Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de Brasília (UCB).
 - 📚 Atualmente estudando
 1. Python para Análise de Dados e Data Science
@@ -79,7 +81,3 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
  target="_blank"></a>
   
 </div>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=gustavocsb)
