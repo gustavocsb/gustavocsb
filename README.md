@@ -15,7 +15,6 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 3. Python - ETL
 4. Análise de requisitos
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display: inline_block">
