@@ -32,11 +32,12 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
   
   - **Softwares e Ferramentas:**
 
+
+![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+![Qlik](https://img.shields.io/static/v1?style=for-the-badge&message=Qlik&color=009848&logo=Qlik&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
-![Qlik](https://img.shields.io/static/v1?style=for-the-badge&message=Qlik&color=009848&logo=Qlik&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
