@@ -10,10 +10,10 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 2. Otimização de query SQL
 
 - 💻 Analista de BI no Hospital Santa Lúcia
-1. QlikView e QlikSense
-2. Toad - SQL
-3. Python - ETL
-4. Análise de requisitos
+1. Qlik
+2. SQL
+3. Python
+4. Excel
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
