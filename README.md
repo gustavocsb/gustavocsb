@@ -68,8 +68,8 @@ Estudante de Engenharia de Software, 6º semestre, na Universidade Católica de 
 
 <div align="center">
   <a href="https://github.com/gustavocsb">
-  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api?username=gustavocsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=8&theme=dracula&exclude_repo=Conscientizacao-Violencia-Idoso"/>
+  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api?username=gustavocsb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="140em" src="https://github-readme-stats-gustavocsb.vercel.app/api/top-langs/?username=gustavocsb&layout=compact&langs_count=8&theme=midnight-purple&exclude_repo=Conscientizacao-Violencia-Idoso"/>
 </div>
 <br><br>
     
