@@ -41,7 +41,7 @@ Tenho experiência no **desenvolvimento de dashboards interativos no Power BI, o
 ## **🌎 Portfólio**
 
 📌 Para conhecer mais sobre meus projetos e experiência profissional, acesse meu portfólio online:  
-🔗 **[gnstavo.com.br](https://www.gnstavo.com.br/)**
+🔗 <a href="https://www.gnstavo.com.br/" target="_blank"><b>gnstavo.com.br</b></a>
 
 ---
 
@@ -60,8 +60,16 @@ Tenho experiência no **desenvolvimento de dashboards interativos no Power BI, o
 Se quiser trocar uma ideia sobre análise de dados, BI ou projetos de tecnologia, entre em contato comigo:  
 
 <div> 
-  <a href="https://www.linkedin.com/in/gustavo-csb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5561992228371" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:gcsb03@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
- target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-csb/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/5561992228371" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  
+  <a href="mailto:gcsb03@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </div>
